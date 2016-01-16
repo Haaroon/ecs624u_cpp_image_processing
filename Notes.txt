@@ -1,0 +1,6 @@
+CPP files must always have an include
+Use namespace to shortcut writing long std::files
+cout << "Text" // will print to the output buffer
+
+cin >> N // gets input from a buffer stream and puts the value into the letter N
+
