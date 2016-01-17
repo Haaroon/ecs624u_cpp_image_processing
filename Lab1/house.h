@@ -6,7 +6,7 @@
 #include <string>
 using namespace std;
 
-class house : public building
+class house: public building
 {
 private:
 	string name;

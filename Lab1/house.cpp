@@ -12,11 +12,11 @@ house::house()
 
 //finish the methods
 house::house(string name_, int bedrooms_, int bathrooms_, int rooms_, int floors_, int area_)
+: building(rooms_, floors_, area_)
 {
 	name = name_;
 	bedrooms = bedrooms_;
 	bathrooms = bathrooms_;
-	building::building(rooms_, floors_, area_);
 }
 
 string house::getName()
