@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getBedrooms	(house.h)"
+			],
+			[
+				"ge",
+				"getName	(house.h)"
+			],
+			[
+				"nam",
+				"namespace	(house.h)"
+			],
+			[
+				"ba",
+				"bathrooms"
+			],
+			[
+				"s",
+				"setBathrooms	(house.h)"
+			],
+			[
+				"bath",
+				"bathrooms"
+			],
+			[
+				"br",
+				"bedrooms_"
+			],
+			[
+				"bed",
+				"bedrooms"
+			],
+			[
+				"se",
+				"setBedrooms	(house.h)"
+			],
+			[
+				"be",
+				"bedrooms"
+			],
+			[
+				"name",
+				"name_"
+			],
+			[
+				"b",
+				"building::building"
+			],
+			[
+				"bat",
+				"bathrooms"
+			],
+			[
+				"hou",
+				"house::house"
+			],
+			[
+				"bui",
+				"building::building	(building.cpp)"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"area",
+				"area"
+			],
+			[
+				"floo",
+				"floors"
+			],
+			[
+				"building",
+				"building::building"
+			],
+			[
+				"flo",
+				"floors_"
+			],
+			[
+				"fl",
+				"floors"
+			],
+			[
+				"ar",
+				"area_"
+			],
+			[
+				"ro",
+				"rooms_"
+			],
+			[
+				"ma",
+				"makeAndPrintVector"
+			],
+			[
+				"m",
+				"makeAndPrintVector"
+			],
+			[
+				"ex",
+				"ex5vector2d::ex5vector2d	(ex5vector2d.cpp)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"y",
+				"y_"
+			],
+			[
+				"in",
+				"include	(ex5.cpp)"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"data",
+				"data-target=〔attribute〕"
+			],
+			[
+				"easy",
+				"easy_maps	(settings.py)"
+			],
+			[
+				"kign",
+				"kingWord"
+			],
+			[
+				"ass",
+				"assertEqual〔function〕"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"Post",
+				"Post_Tag	(models.py)"
+			],
+			[
+				"Pos",
+				"Post_Tag"
+			],
+			[
+				"static",
+				"staticfiles	(settings.py)"
+			],
+			[
+				"p",
+				"path〔module〕"
+			],
+			[
+				"con",
+				"contrib〔module〕"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"re",
+				"reverse〔function〕"
+			],
+			[
+				"pos",
+				"post	(views.py)"
+			],
+			[
+				"res",
+				"response〔module〕"
+			],
+			[
+				"post",
+				"post	(models.py)"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"la",
+				"latest_question_list〔variable〕"
+			],
+			[
+				"c",
+				"contrib〔module〕"
+			],
+			[
+				"Question",
+				"QuestionAdmin"
+			],
+			[
+				"pub_da",
+				"pub_date"
+			],
+			[
+				"ch",
+				"choice_text"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"max",
+				"max_length"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "Package Control: disa",
+		"selected_items":
+		[
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublimtelinet",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import sys; print sys.path",
+			"print sys.path",
+			"import sys",
+			"print os.path",
+			"os.path",
+			"import os",
+			"ls",
+			"terminal",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/house.h",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/house.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex6.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/building.h",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/building.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/.gitignore",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex5vector2d.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex5vector2d.h",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex5.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex4a.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex4.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex2.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 2/C++/Labs-Excercises/Lab1/ex3.cpp",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/maps_api_key.txt",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/jquery-locationpicker-plugin-master/examples/mapInModalDialog.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/test.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/static/css/base.css",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/post_map.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/jquery-locationpicker-plugin-master/examples/examples.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/jquery-locationpicker-plugin-master/examples/simple.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/urls.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/views.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/collabcul/settings.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/models.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/base.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/static_cdn/js/jquery-locationpicker-plugin/locationpicker.jquery.js",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/post_info.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/post_form.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/post_list.html",
+		"/Users/Haaroony/Downloads/django-easy-maps-0.9.2/README.rst",
+		"/Users/Haaroony/Downloads/django-easy-maps-0.9.2/setup.cfg",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/tests.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/blank.txt",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/forms.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/posts/admin.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/tag_selection_form.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/HNOTES-crud.txt",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/message_indication.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/.gitignore",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/templates/index.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/collabcul/urls.py",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/FileHeader/Default (OSX).sublime-keymap",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/HNOTES-crud.md",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/Haaroony/Desktop/test.py",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/SecondPrototype/src/db.sqlite3",
+		"/Users/Haaroony/Downloads/BF LnL 2k12.pdf",
+		"/Users/Haaroony/Desktop/Reduce File Size (50%).qfilter",
+		"/Library/PDF Services/Reduce File Size (50%).qfilter",
+		"/Users/Haaroony/Documents/Projects/DS-nongit/no$gba-debug-2.8b/NO$GBA.INI",
+		"/Users/Haaroony/Dropbox/Projects/exploits-DS/1 basic model/makefile",
+		"/Users/Haaroony/Dropbox/Projects/exploits-DS/1 basic model/main.c",
+		"/Users/Haaroony/Dropbox/Projects/exploits-DS/1 basic model/main.s",
+		"/Users/Haaroony/Dropbox/Projects/exploits-DS/makefile",
+		"/Users/Haaroony/Dropbox/Projects/exploits-DS/main.c",
+		"/Volumes/DeSmuME v0.9.11/README.MAC",
+		"/Users/Haaroony/.bashrc",
+		"/Volumes/GATEWAYNAND/boot.cfg",
+		"/Users/Haaroony/GitHub/python_koans/python3/koans/about_strings.py",
+		"/Users/Haaroony/GitHub/python_koans/python3/koans/about_asserts.py",
+		"/Users/Haaroony/GitHub/python_koans/README.rst",
+		"/Users/Haaroony/Documents/Ethical-Hacking/Hacking tutorial",
+		"/Users/Haaroony/Downloads/wunderlist-to-todoist/# load and read the file.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/CW2/src/genre/IConstants.java",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/CW2/src/genre/DescendingValueComparator.java",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/CW2/src/genre/CompareGenreMapper.java",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/CW2/src/genre/CompareGenreDriver.java",
+		"/Users/Haaroony/Downloads/bdp 2/stock/StockSequenceConverterMapper.java",
+		"/Users/Haaroony/Downloads/avg/rating/AvgRatingReducer.java",
+		"/Users/Haaroony/Downloads/avg/rating/AvgRatingMapper.java",
+		"/Users/Haaroony/Downloads/avg/rating/AvgRating.java",
+		"/Users/Haaroony/Downloads/bdp 2/stock/StockSequenceConverter.java",
+		"/Users/Haaroony/Downloads/bdp 2/stock/DailyStock.java",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 1/build.xml",
+		"/Users/Haaroony/Dropbox/apps/Python/launch_idle.py",
+		"/Users/Haaroony/GitHub/python_koans/python3/run.bat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100k/rb.test",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100k/split_ratings.sh",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/1M/ml-1m/tags.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/1M/ml-1m/movies.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/1M/ml-1m/users.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100k/ratings.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100K/ratings.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100K/split_ratings.sh",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/Movielens/10M/ml-10M100K/allbut.pl",
+		"/Users/Haaroony/Downloads/Movielens/10M/ml-10M100K/ratings.dat",
+		"/Users/Haaroony/Downloads/Movielens/10M/ml-10M100K/tags.dat",
+		"/Users/Haaroony/Downloads/Movielens/10M/ml-10M100K/movies.dat",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/cw2h/ml-10M100K/rb.train",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Big Data/Coursework 2 Branch/cw2h/ml-10M100K/rb.test",
+		"/Users/Haaroony/Dropbox/BigData/_Resources/ml-1m/movies.dat",
+		"/Users/Haaroony/Downloads/test.js",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Data Mining/Coursework/untitled folder/Second_Try.R",
+		"/Users/Haaroony/.bash_profile",
+		"/Users/Haaroony/.profile",
+		"/Users/Haaroony/.pyenv/versions/datamining/bin/frameworkpython",
+		"/.bash_profile",
+		"/Users/Haaroony/.pyenv/versions/datamining/lib/python3.5/site-packages/matplotlib/matplotlibrc",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/views.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/db.sqlite3",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/urls.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/templates/polls/results.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/templates/polls/detail.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/mysite/urls.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/templates/polls/index.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/templates/polls/details.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/mysite/settings.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/templates/admin/base_site.html",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/admin.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/polls/models.py",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/Django Notes",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/manage.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/.python-version",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/Glue/messages/help.txt",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/start_script.py",
+		"/Users/Haaroony/Dropbox/Year 3/2015 16/Semester 1/Project/final year proj/Python and Django Tuts/1FirstDjangoApp/mysite/.idea/workspace.xml",
+		"/Users/Haaroony/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dialog-form",
+			"create-user",
+			"howdy",
+			"map",
+			"us6",
+			"mod",
+			"modal",
+			"us3",
+			"search",
+			"form-control",
+			"binding ui",
+			"postAInfo",
+			"leetWord",
+			"post_text",
+			"index.html",
+			"Error: Your post could not be submitted",
+			"Error: Your post could not be submitted\n",
+			"date",
+			"by CodingEntrepreneurs",
+			"font",
+			"javascript",
+			"height",
+			"\"tab_height\"",
+			"2",
+			"space",
+			"bold",
+			"3.5",
+			"py"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"map",
+			"postInfoOnly",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.458439033229,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cpplabs.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
